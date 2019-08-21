@@ -1,6 +1,5 @@
-﻿// dllmain.cpp : 定义 DLL 应用程序的入口点。
+// dllmain.cpp : 定义 DLL 应用程序的入口点。
 //mb2wc_Hook在krkr2上的实例，实际效果请参考《向日葵 Aqua After》的汉化。
-//部分注释可以在测试时打开，实际上这个可以当做krkr2的debug mode。
 #include "stdafx.h"
 #include "detours.h"
 #include <fstream>
